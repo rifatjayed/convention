@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.slider{
+   height: 95vh;
+}
+
+.faq-left{
+width: 50%;    
+
+}
+.faq-right{
+    width: 50%;    
+    
+    }
