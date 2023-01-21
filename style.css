@@ -1,17 +1,41 @@
-*{
+* {
     margin: 0;
     padding: 0;
 
 }
-.slider{
-   height: 95vh;
+
+.slider {
+    height: 95vh;
 }
 
-.faq-left{
-width: 50%;    
+.faq-left {
+    width: 50%;
 
 }
-.faq-right{
-    width: 50%;    
-    
-    }
+
+.faq-right {
+    width: 50%;
+
+}
+
+ul li {
+    list-style: none;
+}
+
+.price-card:hover {
+    color: white;
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+}
+
+.client-card {
+    background: #FFFFFF;
+    box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+}
+
+
+footer {
+    background: #0B0D17;
+}
